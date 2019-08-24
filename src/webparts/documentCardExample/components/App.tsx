@@ -360,7 +360,7 @@ class App extends React.Component {
     
   public render() {
     return (
-      <div>        
+      <div className="canvas">        
         <div className="button" onClick={() => {this.initBoard();}}>New Game</div>
                 
         <div className="buttons">
