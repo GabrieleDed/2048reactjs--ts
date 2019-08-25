@@ -13,9 +13,7 @@ table {
 
 .canvas {
   font-family: 'Lucida Sans Unicode';
-  background: #43cea2;
-  background: -webkit-linear-gradient(to left, #43cea2 , #185a9d);
-  background: linear-gradient(to left, #43cea2 , #185a9d);
+  background: darkkhaki;
 }
 
 .buttons {
@@ -25,8 +23,8 @@ table {
 }
 
 .button {
-  background-color: #303030;
-  color: #50C8FF;
+  background-color: burlywood;
+  color: white;
   height: 30px;
   width: 100px;
   border-radius: 5px;
@@ -50,7 +48,7 @@ table {
 .cell {
   height: 100px;
   width: 100px;
-  background-color: #303030;
+  background-color: #A9A9A9;
   border-radius: 5px;
   display: flex;
   justify-content: center;
@@ -58,47 +56,47 @@ table {
 }
 
 .color-2 {
-  background-color: #50C8FF;
+  background-color: #D2691E;
 }
 
 .color-4 {
-  background-color: green;
+  background-color: #FF7F50;
 }
 
 .color-8 {
-  background-color: red;
+  background-color: #ffbf00;
 }
 
 .color-16 {
-  background-color: orange;
+  background-color: #bfff00;
 }
 
 .color-32 {
-  background-color: yellow;
+  background-color: #40ff00;
 }
 
 .color-64 {
-  background-color: blue;
+  background-color: #00bfff;
 }
 
 .color-128 {
-  background-color: purple;
+  background-color: #FF7F50;
 }
 
 .color-256 {
-  background-color: pink;
+  background-color: #0040ff;
 }
 
 .color-512 {
-  background-color: #50C8FF;
+  background-color: #ff0080;
 }
 
 .color-1024 {
-  background-color: green;
+  background-color: #D2691E;
 }
 
 .color-2048 {
-  background-color: blue;
+  background-color: #FF7F50;
 }
 
 .number {
